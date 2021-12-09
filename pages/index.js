@@ -3,8 +3,8 @@ import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 
 
-const mex = "truerno";
- 
+// const mex = "truerno";
+
 export default function Home() {
   return (
     <div className={styles.container}>
